@@ -14,7 +14,7 @@
     "babel-cli": "^6.26.0",
     "babel-polyfill": "^6.26.0",
     "babel-preset-latest": "^6.24.1",
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   },
   "dependencies": {
     "babel-standalone": "^6.26.0"
